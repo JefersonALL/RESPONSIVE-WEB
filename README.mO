@@ -1,25 +1,22 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Meu Pet - Luna</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f9f9f9;
-      text-align: center;
-      padding: 50px;
-    }
-    img {
-      width: 300px;
-      border-radius: 10px;
-    }
-  </style>
-</head>
-<body>
-  <h1>🐶 Conheça a Luna!</h1>
-  <img src="https://via.placeholder.com/300" alt="Foto da Luna">
-  <p>Essa é a Luna, minha companheira de aventuras! Ela adora brincar no parque e é muito carinhosa.</p>
-</body>
-</html>
+<html lang="pt-br">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cachorro Caramelo</title>
+</head>
+
+<body style="text-align: center; background-color: #ffe5b4;">
+    <h1>Cachorro Caramelo</h1>
+    <img src="caramelo.png" alt="Imagem de um cachorro caramelo" style="width: 300px;">
+    <p style="padding: 25px 200px;">
+        O cachorro caramelo é um verdadeiro símbolo nacional do Brasil!
+        Conhecido por sua lealdade, inteligência e simpatia, ele está presente em praças, bairros e corações de todo o país.
+        Apesar de não ter uma raça definida, o caramelo conquistou a todos com sua personalidade única e adaptabilidade.
+    </p>
+    <a href="https://inovaveterinaria.com.br/comportamento-das-racas-de-gatos-parte-1/">Saiba mais sobre os vira-latas</a><br><br>
+    <span>Feito na nossa primeira aula 24/02/2025</span>
+</body>
+
+</html>
